@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, my name is Dmitry! 👋
+**tg**: inyutin    
+**email**: inyutin.da@gmail.com
+
+- I'm backend developer, who write code mostly in Python. 🐍
+- I'm currently work at small startup in Russia - hicebank.ru. 👨‍💻
+- I would like to collaborate in interesting projects. ✨
+- My favourite meme is: 😄
+<img src="https://ahseeit.com//king-include/uploads/2021/01/5ffc3c6892b55-3922784322.jpeg" width="200" height="200" />
 
 <!--
 **inyutin/inyutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
