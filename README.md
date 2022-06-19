@@ -3,7 +3,6 @@
 **email**: inyutin.da@gmail.com
 
 - I'm backend developer, who write code mostly in Python. 🐍
-- I'm currently work at small startup in Russia - hicebank.ru. 👨‍💻
 - I would like to collaborate in interesting projects. ✨
 
 <!--
